@@ -1,4 +1,4 @@
-# ComplexCoreImproved1.16-1.21.11
+# ComplexCoreImproved1.12-1.21.11
 
 For more versions, please visit: https://github.com/f1nn1sch134/ComplexCoreImproved
 
