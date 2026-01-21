@@ -6,7 +6,7 @@ ComplexCoreImproved is a improved, powerful and continuously evolving Minecraft 
 
 The plugin is actively maintained and regularly improved with new features, optimizations, and bug fixes.
 
-General plugin version: 0.0 (Here you can quickly see if the plugin has been updated)
+General plugin version: 1.0 (Here you can quickly see if the plugin has been updated)
 
 Premium plugin version: 4.0 (The premium version of ComplexCoreImproved)
 
